@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as t,e as r}from"./index-DXiNIjmi.js";import"./monaco-editor-kWoqqHiK.js";const n={name:"IpLookup"};function p(a,o,c,u,d,l){return t(),s("div",null,o[0]||(o[0]=[r("h1",null,"IP Address Lookup",-1)]))}const i=e(n,[["render",p]]);export{i as default};
