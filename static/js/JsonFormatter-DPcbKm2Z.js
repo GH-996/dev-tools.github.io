@@ -1,1 +1,0 @@
-import{d as t,c as o,e as r,o as n}from"./index-nxpoABot.js";import"./monaco-editor-kWoqqHiK.js";const p=t({name:"JsonFormatter",__name:"JsonFormatter",setup(a){return(s,e)=>(n(),o("div",null,e[0]||(e[0]=[r("h1",null,"JSON Formatter",-1)])))}});export{p as default};
