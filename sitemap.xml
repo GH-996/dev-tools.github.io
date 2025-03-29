@@ -8,19 +8,19 @@
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/json</loc>
+      <loc>https://loxia.cc/%23/json</loc>
       <lastmod>2025-03-29</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/jwt</loc>
+      <loc>https://loxia.cc/%23/jwt</loc>
       <lastmod>2025-03-29</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/ip</loc>
+      <loc>https://loxia.cc/%23/ip</loc>
       <lastmod>2025-03-29</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>

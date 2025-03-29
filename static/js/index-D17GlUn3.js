@@ -1,0 +1,1 @@
+import{d as e,c as o,o as n}from"./index-BiUd-Dz0.js";import"./monaco-editor-kWoqqHiK.js";const p=e({name:"Welcome",__name:"index",setup(t){return(a,c)=>(n(),o("h1",null,"Dev-Tools（Homepage）"))}});export{p as default};
