@@ -1,0 +1,25 @@
+# robots.txt for loxia.cc
+
+User-agent: *
+Allow: /
+Allow: /#/
+Allow: /#/welcome
+Allow: /#/json
+Allow: /#/yaml
+Allow: /#/converter
+Allow: /#/base64
+Allow: /#/jwt
+Allow: /#/ip
+Allow: /#/ini
+Allow: /#/nginx
+
+# Disallow admin and private paths
+Disallow: /admin/
+Disallow: /*.json$
+
+# Sitemap location
+Sitemap: https://loxia.cc/sitemap.xml
+
+# Crawl-delay for politeness
+Crawl-delay: 1
+
