@@ -1,1 +1,0 @@
-import{d as o,i as t,o as n,l as r}from"./index-DbU8_3jf.js";import"./monaco-editor-mVv4Ass3.js";const m=o({__name:"blank",setup(a){return(s,_)=>{const e=r("router-view");return n(),t(e)}}});export{m as default};
