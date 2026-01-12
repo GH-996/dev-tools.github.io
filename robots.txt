@@ -10,6 +10,7 @@ Allow: /#/converter
 Allow: /#/base64
 Allow: /#/jwt
 Allow: /#/ip
+Allow: /#/timezone
 Allow: /#/ini
 Allow: /#/nginx
 
