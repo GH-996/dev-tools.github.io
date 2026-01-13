@@ -1,5 +1,6 @@
 # robots.txt for loxia.cc
 
+# Global rules
 User-agent: *
 Allow: /
 Allow: /#/
@@ -17,6 +18,21 @@ Allow: /#/nginx
 # Disallow admin and private paths
 Disallow: /admin/
 Disallow: /*.json$
+
+# Baidu Spider (百度爬虫)
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 1
+
+# Sogou Spider (搜狗爬虫)
+User-agent: Sogou web spider
+Allow: /
+Crawl-delay: 1
+
+# 360 Spider (360搜索爬虫)
+User-agent: 360Spider
+Allow: /
+Crawl-delay: 1
 
 # Sitemap location
 Sitemap: https://loxia.cc/sitemap.xml
