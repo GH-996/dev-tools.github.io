@@ -1,1 +1,0 @@
-import{e as o,j as r,o as t,r as n}from"./index-XMcjExu_.js";import"./monaco-editor-mVv4Ass3.js";const m=o({__name:"blank",setup(a){return(s,_)=>{const e=n("router-view");return t(),r(e)}}});export{m as default};
