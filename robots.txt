@@ -3,17 +3,16 @@
 # Global rules
 User-agent: *
 Allow: /
-Allow: /#/
-Allow: /#/welcome
-Allow: /#/json
-Allow: /#/yaml
-Allow: /#/converter
-Allow: /#/base64
-Allow: /#/jwt
-Allow: /#/ip
-Allow: /#/timezone
-Allow: /#/ini
-Allow: /#/nginx
+Allow: /welcome
+Allow: /json
+Allow: /yaml
+Allow: /converter
+Allow: /base64
+Allow: /jwt
+Allow: /ip
+Allow: /timezone
+Allow: /ini
+Allow: /nginx
 
 # Disallow admin and private paths
 Disallow: /admin/

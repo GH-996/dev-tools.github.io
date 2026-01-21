@@ -3,67 +3,67 @@
 
    <url>
       <loc>https://loxia.cc/</loc>
-      <lastmod>2026-01-13</lastmod>
+      <lastmod>2026-01-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/#/base64</loc>
-      <lastmod>2026-01-13</lastmod>
+      <loc>https://loxia.cc/base64</loc>
+      <lastmod>2026-01-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/#/converter</loc>
-      <lastmod>2026-01-13</lastmod>
+      <loc>https://loxia.cc/converter</loc>
+      <lastmod>2026-01-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/#/welcome</loc>
-      <lastmod>2026-01-13</lastmod>
+      <loc>https://loxia.cc/welcome</loc>
+      <lastmod>2026-01-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/#/ini</loc>
-      <lastmod>2026-01-13</lastmod>
+      <loc>https://loxia.cc/ini</loc>
+      <lastmod>2026-01-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/#/ip</loc>
-      <lastmod>2026-01-13</lastmod>
+      <loc>https://loxia.cc/ip</loc>
+      <lastmod>2026-01-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/#/json</loc>
-      <lastmod>2026-01-13</lastmod>
+      <loc>https://loxia.cc/json</loc>
+      <lastmod>2026-01-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/#/jwt</loc>
-      <lastmod>2026-01-13</lastmod>
+      <loc>https://loxia.cc/jwt</loc>
+      <lastmod>2026-01-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/#/nginx</loc>
-      <lastmod>2026-01-13</lastmod>
+      <loc>https://loxia.cc/nginx</loc>
+      <lastmod>2026-01-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/#/timezone</loc>
-      <lastmod>2026-01-13</lastmod>
+      <loc>https://loxia.cc/timezone</loc>
+      <lastmod>2026-01-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
    </url>
    <url>
-      <loc>https://loxia.cc/#/yaml</loc>
-      <lastmod>2026-01-13</lastmod>
+      <loc>https://loxia.cc/yaml</loc>
+      <lastmod>2026-01-21</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
    </url>

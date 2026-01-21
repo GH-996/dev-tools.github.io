@@ -88,6 +88,28 @@
       rel="stylesheet"
       href="https://unpkg.com/tippy.js@6/themes/light.css"
     />
+    <!-- Single Page Apps for GitHub Pages -->
+    <!-- https://github.com/rafgraph/spa-github-pages -->
+    <script>
+      // Single Page Apps for GitHub Pages
+      // Redirect from 404.html with the path encoded in the query string
+      (function (l) {
+        if (l.search[1] === "/") {
+          var decoded = l.search
+            .slice(1)
+            .split("&")
+            .map(function (s) {
+              return s.replace(/~and~/g, "&");
+            })
+            .join("?");
+          window.history.replaceState(
+            null,
+            null,
+            l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      })(window.location);
+    </script>
     <!-- <script>
       window.process = {};
     </script> -->
@@ -149,7 +171,7 @@
         ]
       }
     </script>
-    <script type="module" crossorigin src="/static/js/index-85PIND25.js"></script>
+    <script type="module" crossorigin src="/static/js/index-csO0er4V.js"></script>
     <link rel="modulepreload" crossorigin href="/static/js/monaco-editor-mVv4Ass3.js">
     <link rel="stylesheet" crossorigin href="/static/css/monaco-editor-DuGcbLQW.css">
     <link rel="stylesheet" crossorigin href="/static/css/index-Dz27aDuQ.css">
